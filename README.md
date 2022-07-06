@@ -1,5 +1,5 @@
 
-## react-native-camera UDA's copy
+## react-native-camera UDA's copy based of 3.42.0
 
 For Usage -> https://react-native-camera.github.io/react-native-camera/docs/rncamera
 
